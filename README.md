@@ -10,6 +10,11 @@
 
 </div>
 
+Frontend dev who recently fell into the Flutter rabbit hole 🐇
+
+Still figuring it all out — but having fun doing it 💫
+
+Writing code, chasing dreams, and fixing bugs (mostly) 🐞
 
 
 ### 💻 Language & Frameworks
