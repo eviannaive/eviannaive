@@ -8,6 +8,8 @@ Still figuring it all out — but having fun doing it 💫
 
 Writing code, chasing dreams, and fixing bugs 🐞
 
+よろしくお願いします！(a.k.a. 薫子ちゃん、めっちゃかわいい！🩷✨)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eviannaive&theme=tokyonight)
 
