@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76788&width=435&lines=Evianna+here.;You+can+call+me+%C3%89van.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76788&width=435&lines=Evianna+here.;You+can+call+me+Eva.)](https://git.io/typing-svg)
 
 Frontend dev who recently fell into the Flutter rabbit hole 🐇
 
