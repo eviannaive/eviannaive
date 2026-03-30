@@ -2,14 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76788&width=435&lines=Evianna+here.;You+can+call+me+Eva.)](https://git.io/typing-svg)
 
-Frontend dev who recently fell into the Flutter rabbit hole 🐇
+Frontend engineer focused on React 🐇
 
-Still figuring it all out — but having fun doing it 💫
+Just got back from Hokkaido — unlocked a new skill: snowboarding 🏂❄️
 
 Writing code, chasing dreams, and fixing bugs 🐞
-
-よろしくお願いします！(a.k.a. 薫子ちゃん、めっちゃかわいい！🩷✨)
-
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eviannaive&theme=tokyonight)
 
@@ -25,6 +22,7 @@ Still figuring it all out — but having fun doing it 💫
 
 Writing code, chasing dreams, and fixing bugs (mostly) 🐞
 
+デジタルノマド生活中：旅 ✈️ + コード 💻 + 冒険 🏔️
 
 ### 💻 Language & Frameworks
 
