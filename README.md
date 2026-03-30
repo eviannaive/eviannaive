@@ -8,6 +8,8 @@ Just got back from Hokkaido — unlocked a new skill: snowboarding 🏂❄️
 
 Writing code, chasing dreams, and fixing bugs 🐞
 
+デジタルノマド生活中：旅 ✈️ + コード 💻 + 冒険 🏔️
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eviannaive&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eviannaive&layout=compact&theme=tokyonight)
@@ -15,14 +17,6 @@ Writing code, chasing dreams, and fixing bugs 🐞
 ![](./profile-3d-contrib/profile-green.svg)
 
 </div>
-
-Frontend dev who recently fell into the Flutter rabbit hole 🐇
-
-Still figuring it all out — but having fun doing it 💫
-
-Writing code, chasing dreams, and fixing bugs (mostly) 🐞
-
-デジタルノマド生活中：旅 ✈️ + コード 💻 + 冒険 🏔️
 
 ### 💻 Language & Frameworks
 
